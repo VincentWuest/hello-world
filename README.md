@@ -3,4 +3,6 @@ This is my first repository on GitHub
 
 I'm now editing the "Code"
 
-I'm learning.
+I'm LEARNING.
+
+HELLO THIS IS NEW
